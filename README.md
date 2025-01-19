@@ -18,8 +18,6 @@ To run this project, ensure you have Python installed along with the following l
 
 - **TensorFlow** (for training and evaluating the model)
 - **Keras** (for model building)
-- **NumPy** (for numerical operations)
-- **Matplotlib** (for visualizing results)
 - **scikit-learn** (for dataset splitting)
 
 
